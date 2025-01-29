@@ -11,7 +11,7 @@ class Person(var name: String, var age: Int, var gender: String) {
     fun increaseAge() {
         age++
     }
-
+4
     fun changeName(newName: String) {
         name = newName
     }
